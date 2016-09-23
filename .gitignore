@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings/
+bin/
+build/
+target/
+**.war
+mobvoibackendsdk.jar
+infinitest.filters
+**.class
+**.pyc
+**.apk
+**.jar
+**.iml
